@@ -1,0 +1,13 @@
+@media (max-width: 767px){    
+    .navbar .nav-top{
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px){
+    .navigation-left .offcanvas{
+        transform: translateX(-100%);
+        position: fixed;
+        /* visibility:hidden;/ */
+    }
+}
